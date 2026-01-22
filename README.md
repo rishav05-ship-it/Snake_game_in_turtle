@@ -1,1 +1,1 @@
-# Snake_game_in_turtle that tracks scores and eats fruits in order to grow
+A classic Snake game built with Python Turtle, featuring real-time score tracking, fruit consumption, and dynamic snake growth.
